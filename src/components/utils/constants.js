@@ -1,0 +1,32 @@
+export const products = [
+  {
+    id: 1,
+    taste: 'с фуа-гра',
+    portions: '10 порций',
+    present: 'мышь в подарок',
+    result: '',
+    weight: '0,5',
+    available: 2,
+    sold: 'Печень утки разварная с артишоками.',
+  },
+  {
+    id: 2,
+    taste: 'с рыбой',
+    portions: '40 порций',
+    present: '2 мыши в подарок',
+    result: '',
+    weight: '2',
+    available: 1,
+    sold: 'Головы щучьи с чесноком да свежайшая сёмгушка.',
+  },
+  {
+    id: 3,
+    taste: 'с курой',
+    portions: '100 порций',
+    present: '5 мышей в подарок',
+    result: 'заказчик доволен',
+    weight: '5',
+    available: 0,
+    sold: 'Филе из цыплят с трюфелями в бульоне.',
+  },
+]
