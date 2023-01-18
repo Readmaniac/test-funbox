@@ -12,7 +12,7 @@
 - React;
 - JavaScript;
 - HTML;
-- CSS; -
+- CSS;
 - Flexbox;
 - Grid;
 - Positioning;
